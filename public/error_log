@@ -1,0 +1,5 @@
+[04-Jul-2024 12:09:59 UTC] PHP Warning:  require(/home/passionatehearts/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/passionatehearts/public_html/index.php on line 13
+[04-Jul-2024 12:09:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/passionatehearts/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/passionatehearts/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/passionatehearts/public_html/index.php on line 13
